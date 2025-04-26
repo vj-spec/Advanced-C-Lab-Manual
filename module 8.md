@@ -23,31 +23,41 @@ int main()
     scanf("%d",&n);
     switch (n)
     {
-        case 11:
-            printf("eleven");
+        case 71:
+            printf("seventy one");
             break;
-        case 12: 
-            printf("twelve");
+        case 72: 
+            printf("seventy two");
             break;
-        case 13:
-            printf("thirteen");
+        case 73:
+            printf("seventy three");
             break;
-        case 14:
-            printf("fourteen");
+        case 74:
+            printf("seventy four");
             break;
-        case 15:
-            printf("fifteen");
+        case 75:
+            printf("seventy five");
             break;
+	    case 76:
+	        printf("seventy six");
+	        break;
+	    case 77:
+	        printf("seventy seven");
+	        break;
+	    case 78:
+	        printf("seventy eight");
+	        break;
+	    case 79:
+	        printf("seventy nine");
+	        break;
         default:
-            printf("Greater than 19");
+            printf("Greater than 79");
         }
-    
 }
-
 ```
 Output:
 
-![image](https://github.com/user-attachments/assets/a8812a6e-6917-496a-85a5-5ba6b18dfda5)
+![image](https://github.com/user-attachments/assets/1df71fa8-94e7-4873-9d50-fd3b80e4ed27)
 
 
 Result:

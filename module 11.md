@@ -43,6 +43,7 @@ printf("\nThe greatest number is %d",greater);
 ```
 Output:
 
+![image](https://github.com/user-attachments/assets/161c3dc3-e687-47fa-97f6-082ce00add0d)
 
 Result:
 Thus, the program  that create a function to find the greatest number is verified successfully.

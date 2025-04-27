@@ -19,21 +19,20 @@ Program:
 #include<stdio.h> 
 struct eligib
 {
-int age; 
-char n[4];
+  int age; 
+  char n[4];
 };
 int main()
 {
-struct eligib e; 
-scanf("%d%s",&e.age,e.n);
+  struct eligib e; 
+  scanf("%d%s",&e.age,e.n);
 if(e.age<=6)
 {
-printf("Age:%d\nName:%svaccine:%d\neligibility:no",e.age,e.n,e.age);
+  printf("Age:%d\nName:%svaccine:%d\neligibility:no",e.age,e.n,e.age);
 }
 else
 {
-
-printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
+ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 }
 }
 ```
